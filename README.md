@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Andy Yao</h1>
-<p align="center">A passionate Android developer from Taiwan</p>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/yaoandy107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaoandy107" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/yaoandy107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yaoandy107" height="30" width="40" /></a>
-  <a href="https://instagram.com/yaoandy107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaoandy107" height="30" width="40" /></a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaoandy107&count_private=true&show_icons=true&hide_title=true">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yaoandy107">
-</p>
+## Hi, I'm Andy Yao 👋
+
+Senior software engineer based in Tokyo, working across web, backend, cloud infrastructure, Android, and Kotlin Multiplatform.
+
+I also build language-learning products and an open-source AI-text detection model.
+
+### Projects
+
+| Project | What it does | Links |
+| --- | --- | --- |
+| **Yori News** | A daily news app for Japanese and English learners, with guided reading, word-synced audio, learning notes, and follow-up practice | [Web](https://news.yoridesu.com) · iOS (in review) · Android (in review) |
+| **Greyscope** | Distinguishes human-written, AI-edited, and AI-generated text in English, Japanese, and Traditional Chinese | [Code](https://github.com/yaoandy107/greyscope) · [Model](https://huggingface.co/yaoandy107/greyscope-qwen3.5-4b) |
+| **Yori Dict** | An open-source Japanese and English dictionary built from multiple sources, using an LLM to fill gaps in coverage | [Code](https://github.com/YoriJP/yori-dict) · [API](https://yori-dict-production.up.railway.app/doc) |
+| **Yori** | Japanese translation and conversation practice with level-aware output and real-time corrections | [Web](https://yoridesu.com) |
